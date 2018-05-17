@@ -1,0 +1,14 @@
+		table{
+			box-sizing: border-box;
+			text-align: center;
+			/*width: 70%; */
+		}
+
+		h1{
+			text-align: center;
+		}
+		.pagination{
+			display: flex;
+			justify-content: space-between;
+			margin: auto ;
+		}

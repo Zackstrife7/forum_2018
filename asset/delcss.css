@@ -1,0 +1,19 @@
+form{
+
+max-width: 250px;
+			 float: right;
+			display: flex;
+			align-self: center; 
+			right: 200px;
+			text-align: center;
+			
+}
+form{
+	height: 20%;
+}
+label{
+	/*font-size: 1.4rem;*/
+	color : green ;
+	/*background-color: #a26d3b;*/
+
+}

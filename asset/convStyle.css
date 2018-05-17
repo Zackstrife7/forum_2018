@@ -1,0 +1,27 @@
+		table{
+			box-sizing: border-box;
+			text-align: center;
+			width: 50%;
+
+		}
+		th{
+			background-color: #a26d3b;
+		}
+		.opened{
+			background-color: #49b3b7;
+		}
+		.closed{
+			background-color: #4fa33c;
+		}
+
+		fieldset{
+			/*max-width: 250px;*/
+			/* float: left;
+			display: flex;
+			align-self: center; */
+			/*right: 200px;*/
+			text-align: center;
+		}
+		h1{
+			text-align: center;
+		}
